@@ -3,14 +3,7 @@ html_content = """
 <!DOCTYPE html>
 <html lang="ro">
 <head>
-     {
-            font-family: Arial, sans-serif;
-            background-color: #121212;
-            color: #e0e0e0;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-        }
+    
         header {
             background-color: #1f1f1f;
             padding: 20px 10px;
