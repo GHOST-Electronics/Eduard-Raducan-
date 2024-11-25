@@ -1,54 +1,5 @@
 # Eduard-Raducan
-html_content = """
-<!DOCTYPE html>
-<html lang="ro">
-<head>
-    
-        header {
-            background-color: #1f1f1f;
-            padding: 20px 10px;
-            text-align: center;
-        }
-        header h1 {
-            color: #76c7c0; /* Mint green for a modern accent */
-            font-size: 2.5em;
-        }
-        header p {
-            color: #e0e0e0;
-            font-size: 1.2em;
-        }
-        section {
-            margin: 20px;
-            padding: 15px;
-            background-color: #1c1c1c;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        section h2 {
-            color: #ffb74d; /* Amber for section titles */
-            border-bottom: 2px solid #76c7c0;
-            padding-bottom: 5px;
-        }
-        section p, li {
-            color: #e0e0e0;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        footer {
-            text-align: center;
-            background-color: #1f1f1f;
-            color: #aaa;
-            padding: 10px 0;
-            margin-top: 20px;
-        }
-        footer a {
-            color: #76c7c0;
-            text-decoration: none;
-        }
-        footer a:hover {
-            text-decoration: underline;
-        }
+
   
 </head>
 <body>
