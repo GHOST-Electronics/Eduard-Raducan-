@@ -110,8 +110,7 @@ html_content = """
 </html>
 """
 
-# Save the HTML file
-file_path = "/mnt/data/Eduard_Raducan_Webpage.html"
+
 with open(file_path, "w", encoding="utf-8") as file:
     file.write(html_content)
 
