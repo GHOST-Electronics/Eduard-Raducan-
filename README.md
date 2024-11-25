@@ -56,7 +56,7 @@ html_content = """
         footer a:hover {
             text-decoration: underline;
         }
-    </style>
+  
 </head>
 <body>
 
