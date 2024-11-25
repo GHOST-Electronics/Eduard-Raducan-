@@ -103,12 +103,7 @@ html_content = """
 </section>
 
 <footer>
-    <p>© 2024 Eduard Răducan. Toate drepturile rezervate. | <a href="#">Contact</a></p>
-</footer>
-
-</body>
-</html>
-"""
+    <p>© 2024 Eduard Răducan. Toate drepturile rezervate. 
 
 
 with open(file_path, "w", encoding="utf-8") as file:
