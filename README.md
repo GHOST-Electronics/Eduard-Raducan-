@@ -3,10 +3,7 @@ html_content = """
 <!DOCTYPE html>
 <html lang="ro">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eduard Răducan - Electronist și Dezvoltator
-        body {
+     {
             font-family: Arial, sans-serif;
             background-color: #121212;
             color: #e0e0e0;
