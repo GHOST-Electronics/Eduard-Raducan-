@@ -106,7 +106,4 @@ html_content = """
     <p>© 2024 Eduard Răducan. Toate drepturile rezervate. 
 
 
-with open(file_path, "w", encoding="utf-8") as file:
-    file.write(html_content)
 
-file_path
